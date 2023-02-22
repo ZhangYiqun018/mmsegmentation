@@ -1,8 +1,6 @@
 *.pth
 /data/ade
-/data/*
-/result/*
-
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+/data/CHASE_DB1
+/data/*.zip
+/result/segformer_ade20k
+/result/segformer_chase_db1
